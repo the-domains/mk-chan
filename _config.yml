@@ -1,7 +1,7 @@
 name: MK CHAN
 favicon: null
-layout_spectrum: 0.48809
-typography_spectrum: 0.32691566925495863
+layout_spectrum: 1
+typography_spectrum: 0.49276
 title: MKECM IT SOLUTIONS - MK Chan
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5466947907116264
-  lightness: 0.7921339012682438
-  saturation: 0.7350811643991619
-  rhythmicContrast: 0.2811361625790596
+    - '#5f3b95'
+    - '#faae33'
+    - '#f17336'
+    - '#30b45e'
+    - '#ec1c23'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
